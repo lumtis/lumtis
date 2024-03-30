@@ -1,4 +1,4 @@
--> I worked +5 years with Blockchain technology and +3 years with Golang
+-> I've been working +5 years with Blockchain technology and +3 years with Golang
 
 -> I like simplicity and reusability
 
