@@ -11,6 +11,6 @@
       ╋╋╋╋╋╋╋╋╋╋╋╋┗┛<br>
     </td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lumtis&show_icons=true&theme=blue_navy" /></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=lumtis&theme=blue_navy" /></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lumtis&theme=2077" /></td>
   </tr>
 </table>
